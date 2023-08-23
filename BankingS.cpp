@@ -257,7 +257,6 @@ class BankingS
             }
             case 2:
             {
-                cout<<amt<<endl;
                 cout<<"Enter the amount"<<endl;
                 double take;
                 cin>>take;
