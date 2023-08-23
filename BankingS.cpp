@@ -334,9 +334,6 @@ int main()
         }
         else
         cout<<"Invalid entry please try again"<<endl;
-
-        for(int i=0;i<=100000;i++);
-
         cout<<"Do you want to continue? (y/n)"<<endl;
         char c;
         cin>>c;
